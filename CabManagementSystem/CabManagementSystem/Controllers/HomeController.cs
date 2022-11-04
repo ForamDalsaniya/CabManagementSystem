@@ -8,5 +8,10 @@ namespace CabManagementSystem.Controllers
         {
             return View();
         }
+
+        public IActionResult CabDriverHome()
+        {
+            return View();
+        }
     }
 }

@@ -25,6 +25,7 @@ namespace CabManagementSystem.ViewModel
         public string ConfirmPassword { get; set; }
         public string PhoneNumber { get; set; }
         public string City { get; set; }
+        public string NumberPlate { get; set; } 
         public bool isDriver { get; set; }
 
     }

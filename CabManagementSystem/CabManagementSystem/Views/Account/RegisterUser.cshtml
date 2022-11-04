@@ -49,20 +49,27 @@
                     <input asp-for="ConfirmPassword">
                 </label>
                 <button class="submit" type="submit">Sign Up</button>
+                
             </form>
+
+            <div class="d-flex justify-content-center">
+                <a asp-controller="Account" asp-action="Login" class="text-decoration-none text-bg-light">Already User?</a>
+            </div>
+
         </div>
 
-        <div class="sub-cont" style="width:1000px">
+        <div class="sub-cont">
             <div class="img">
                 <div class="img-text m-up">
                     <h2>Cab Driver?</h2>
                     <p>Sign up as Cab Driver and serve to people</p>
-                </div>
+                    <div style="margin-top:35vh; padding:15px; border:2px solid; border-radius:25px;" >
 
-                <div class="img-btn" style="width:auto">
-                    <a class="m-up" asp-action="RegisterCabDriver" asp-controller="Account">Driver Registration</a>
+                 <a class="text-decoration-none" style="color:white;" asp-action="RegisterCabDriver" asp-controller="Account">Driver Registration</a>
+                    </div>
                 </div>
-            </div>
+            <div>
+            
         </div>
     </div>
     @* <script type="text/javascript" src="script.js"></script>*@

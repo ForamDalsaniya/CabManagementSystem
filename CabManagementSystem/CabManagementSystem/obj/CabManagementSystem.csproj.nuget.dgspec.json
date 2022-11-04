@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {}
+    "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {
+    "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
         "projectName": "CabManagementSystem",
-        "projectPath": "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,8 +65,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
