@@ -9,11 +9,11 @@ namespace CabManagementSystem.Models
         {
 
         }
-        //public DbSet<Employee> Employees { get; set; }  
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    base.OnModelCreating(modelBuilder);
-        //    modelBuilder.Seed();
-        //}
+        public DbSet<Cab> cab { get; set; }  
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            //modelBuilder.Seed();
+        }
     }
 }

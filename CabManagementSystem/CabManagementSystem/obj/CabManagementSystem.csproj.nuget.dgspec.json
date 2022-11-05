@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {}
+    "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {
+    "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
+        "projectUniqueName": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
         "projectName": "CabManagementSystem",
-        "projectPath": "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
+        "projectPath": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET core\\CabManagementSystem\\CabManagementSystem\\obj\\",
+        "outputPath": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

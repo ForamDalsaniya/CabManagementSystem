@@ -6,7 +6,7 @@ namespace CabManagementSystem.Models
     {
         public string Name { get; set; }
         public string City { get; set; }
-
+        public string? NumberPlate { get; set; }
         public bool isDriver { get; set; }
     }
 }

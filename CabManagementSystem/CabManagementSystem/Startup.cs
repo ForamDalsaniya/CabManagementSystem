@@ -20,7 +20,7 @@ namespace CabManagementSystem
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<AppDbContext>();
             services.AddMvc(options => options.EnableEndpointRouting = false);
-            //services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
+            services.AddTransient<ICabRepository, SQLCabRepository>();
         }
 
         [Obsolete]

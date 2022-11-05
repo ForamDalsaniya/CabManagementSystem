@@ -25,6 +25,6 @@ namespace CabManagementSystem.ViewModel
         public string PhoneNumber { get; set; }
         public string City { get; set; }
         public bool isDriver { get; set; }
-
+        public string? NumberPlate { get; set; } 
     }
 }

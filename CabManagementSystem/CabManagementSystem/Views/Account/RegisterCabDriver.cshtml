@@ -35,6 +35,10 @@
                     <span>Phone No</span>
                     <input asp-for="PhoneNumber">
                 </label>
+                <label asp-for="NumberPlate">
+                    <span>Number Plate</span>
+                    <input asp-for="NumberPlate">
+                </label>
                 <label asp-for="Password">
                     <span>Password</span>
                     <input asp-for="Password">
@@ -45,6 +49,9 @@
                 </label>
             <button class="submit" type="submit">Sign Up</button>
             </form>
+            <div class="d-flex justify-content-center">
+                <a asp-controller="Account" asp-action="Login" class="text-decoration-none text-bg-light">Already User?</a>
+            </div>
            @* <div class="social-media">
                 <ul>
                     <li><img src="images/facebook.png"></li>
@@ -55,7 +62,7 @@
             </div>*@
         </div>
 
-        <div class="sub-cont" style="width:1000px">
+       @* <div class="sub-cont" style="width:1000px">
             <div class="img">
                 <div class="img-text m-up">
                     <h2>New User?</h2>
@@ -66,8 +73,23 @@
                     <a class="m-up" asp-action="RegisterUser" asp-controller="Account">User Registration</a>
                 </div>
             </div>
-            </div>
+            </div>*@
+
+        <div class="sub-cont">
+            <div class="img">
+                <div class="img-text m-up">
+                    <h2>User?</h2>
+                    <p>Sign up and discover great amount of new opportunities!</p>
+                    <div style="margin-top:35vh; padding:15px; border:2px solid; border-radius:25px;">
+
+                        <a class="text-decoration-none" style="color:white;" asp-action="RegisterUser" asp-controller="Account">User Registration</a>
+                    </div>
+                </div>
+            <div>
+        </div>
+      </div>
     </div>
+   </div>
    @* <script type="text/javascript" src="script.js"></script>*@
 </body>
 </html>
