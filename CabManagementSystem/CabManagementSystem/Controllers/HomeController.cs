@@ -20,15 +20,19 @@ namespace CabManagementSystem.Controllers
             return View();
         }
 
+<<<<<<< HEAD
         public IActionResult CabIndex()
         {
             return View();
         }
         [HttpGet]
+=======
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
         public IActionResult CabDriverHome()
         {
             return View();
         }
+<<<<<<< HEAD
         private string ProcessUploadFile(CabCreateViewModel model)
         {
             string uniqueFileName = null;
@@ -81,6 +85,8 @@ namespace CabManagementSystem.Controllers
         {
             return View();
         }
+=======
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
     }
 
 }

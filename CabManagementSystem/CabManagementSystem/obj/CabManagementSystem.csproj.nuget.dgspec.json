@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
         "outputPath": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\obj\\",
+=======
+    "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
+        "projectName": "CabManagementSystem",
+        "projectPath": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\obj\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,8 +79,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

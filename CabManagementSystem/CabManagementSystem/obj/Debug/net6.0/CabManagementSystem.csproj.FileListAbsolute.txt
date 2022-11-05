@@ -130,6 +130,7 @@ C:\Users\vivek\Desktop\New folder (2)\CabManagementSystem\CabManagementSystem\Ca
 C:\Users\vivek\Desktop\New folder (2)\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\CabManagementSystem.pdb
 C:\Users\vivek\Desktop\New folder (2)\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\CabManagementSystem.genruntimeconfig.cache
 C:\Users\vivek\Desktop\New folder (2)\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\ref\CabManagementSystem.dll
+<<<<<<< HEAD
 F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\bin\Debug\net6.0\appsettings.Development.json
 F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\bin\Debug\net6.0\appsettings.json
 F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\bin\Debug\net6.0\libman.json
@@ -196,3 +197,5 @@ F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\
 F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\CabManagementSystem.pdb
 F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\CabManagementSystem.genruntimeconfig.cache
 F:\CabManagementSystem\CabManagementSystem\CabManagementSystem\obj\Debug\net6.0\ref\CabManagementSystem.dll
+=======
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e

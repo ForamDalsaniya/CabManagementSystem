@@ -32,7 +32,11 @@ namespace CabManagementSystem.Controllers
             
             if (ModelState.IsValid)
             {
+<<<<<<< HEAD
                 var user = new ApplicationUser { UserName = model.UserName, Email = model.Email, City = model.City, Name = model.Name,PhoneNumber = model.PhoneNumber, NumberPlate = null , isDriver = false};
+=======
+                var user = new ApplicationUser { UserName = model.UserName, Email = model.Email, City = model.City, Name = model.Name,PhoneNumber = model.PhoneNumber, NumberPlate = "NULL" , isDriver = false};
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
                 var result = await userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
@@ -68,7 +72,11 @@ namespace CabManagementSystem.Controllers
                     var userinfo = userManager.FindByNameAsync(model.UserName);    
                     if(userinfo.Result.isDriver)
                     {
+<<<<<<< HEAD
                         return RedirectToAction("CabIndex", "home");
+=======
+                        return RedirectToAction("cabdriverhome", "home");
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
                     }
                     else
                     {

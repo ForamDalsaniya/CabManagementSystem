@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@{
     Layout = "~/Views/Shared/_Layout.cshtml";
     ViewBag.Title = "Home";
@@ -8,3 +9,38 @@
         <a asp-action="CabBook" asp-controller="home" class="btn btn-primary">Book a Cab</a>
     
 </div>
+=======
+﻿@*@inject SignInManager<ApplicationUser> signInManager*@
+ 
+<!DOCTYPE>
+<html>
+    <head>
+        <link rel="stylesheet" href="~/lib/css/bootstrap.min.css" />
+    </head>
+    <body>
+        <div class="container">
+
+        <h2>Welcome Back</h2>
+            <label>Your Location</label>
+            <input type="text" name="travelFrom" />
+            <br />
+            <label>Your Destination</label>
+            <input type="text" name="travelTo" />
+            <br />
+            <label>Distance</label>
+            <input type="number" name="distance" />
+            <br />
+            <button class="btn" onclick="GetRoute()">Get Distance</button>
+        <div>
+        </div>
+            <div id="dvDistance" >
+
+            </div>
+        </div>
+        <div id="dvMap">
+
+        </div>
+        
+    </body>
+</html>
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e

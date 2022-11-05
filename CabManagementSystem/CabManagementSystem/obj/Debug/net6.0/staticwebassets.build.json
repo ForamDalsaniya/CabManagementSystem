@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "FEveR0xY6xDpCt1M7GO60Y8Dw/51vvUNW9ZjfFGHUsg=",
+=======
+  "Hash": "o398UqzUJqcPW4AxSC5vXnFf/0xgTWIdJMNi+LY9ayg=",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
   "Source": "CabManagementSystem",
   "BasePath": "_content/CabManagementSystem",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "CabManagementSystem\\wwwroot",
       "Source": "CabManagementSystem",
+<<<<<<< HEAD
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\css\\Registration.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\css\\Registration.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "css/Registration.css",
       "AssetKind": "All",
@@ -34,10 +49,17 @@
       "OriginalItemSpec": "wwwroot\\css\\Registration.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\css\\site.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\css\\site.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -51,10 +73,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\favicon.ico",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\favicon.ico",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,6 +97,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\images\\27d4fc24-5486-4f17-9d50-db0ee20c0631_Tesla.jpg",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
@@ -157,6 +187,12 @@
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\js\\site.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -170,10 +206,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -187,10 +230,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -204,10 +254,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -221,10 +278,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -238,10 +302,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -255,10 +326,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -272,10 +350,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -289,10 +374,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -306,10 +398,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -323,10 +422,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -340,10 +446,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -357,10 +470,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -374,10 +494,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -391,10 +518,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -408,10 +542,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -425,10 +566,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -442,10 +590,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -459,10 +614,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -476,10 +638,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -493,10 +662,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -510,10 +686,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -527,10 +710,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +734,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +758,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +782,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -595,10 +806,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -612,10 +830,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -629,10 +854,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -646,10 +878,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +902,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +926,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +950,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +974,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -731,10 +998,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -748,10 +1022,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -765,10 +1046,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -782,10 +1070,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -799,10 +1094,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -816,10 +1118,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -833,10 +1142,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -850,10 +1166,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -867,10 +1190,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -884,10 +1214,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -901,10 +1238,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -918,10 +1262,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -935,10 +1286,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_accordion.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -952,10 +1310,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_alert.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -969,10 +1334,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_badge.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -986,10 +1358,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -1003,10 +1382,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_button-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -1020,10 +1406,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_buttons.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -1037,10 +1430,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_card.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -1054,10 +1454,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_carousel.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -1071,10 +1478,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_close.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -1088,10 +1502,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_containers.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -1105,10 +1526,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -1122,10 +1550,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_forms.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -1139,10 +1574,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_functions.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -1156,10 +1598,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_grid.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -1173,10 +1622,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_helpers.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -1190,10 +1646,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_images.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -1207,10 +1670,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_list-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_maps.scss",
       "AssetKind": "All",
@@ -1224,10 +1694,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_maps.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -1241,10 +1718,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_mixins.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -1258,10 +1742,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_modal.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -1275,10 +1766,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_nav.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1292,10 +1790,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_navbar.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -1309,10 +1814,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -1326,10 +1838,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_pagination.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_placeholders.scss",
       "AssetKind": "All",
@@ -1343,10 +1862,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -1360,10 +1886,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_popover.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -1377,10 +1910,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_progress.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -1394,10 +1934,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_reboot.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1411,10 +1958,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_root.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1428,10 +1982,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_spinners.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1445,10 +2006,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tables.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -1462,10 +2030,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_toasts.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -1479,10 +2054,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -1496,10 +2078,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_transitions.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -1513,10 +2102,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_type.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1530,10 +2126,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_utilities.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -1547,10 +2150,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1564,10 +2174,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1581,10 +2198,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1598,10 +2222,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -1615,10 +2246,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -1632,10 +2270,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -1649,10 +2294,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -1666,10 +2318,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -1683,10 +2342,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -1700,10 +2366,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -1717,10 +2390,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -1734,10 +2414,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -1751,10 +2438,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -1768,10 +2462,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -1785,10 +2486,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_color-bg.scss",
       "AssetKind": "All",
@@ -1802,10 +2510,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -1819,10 +2534,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -1836,10 +2558,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -1853,10 +2582,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_stacks.scss",
       "AssetKind": "All",
@@ -1870,10 +2606,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -1887,10 +2630,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -1904,10 +2654,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1921,10 +2678,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/helpers/_vr.scss",
       "AssetKind": "All",
@@ -1938,10 +2702,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -1955,10 +2726,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_backdrop.scss",
       "AssetKind": "All",
@@ -1972,10 +2750,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_banner.scss",
       "AssetKind": "All",
@@ -1989,10 +2774,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -2006,10 +2798,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -2023,10 +2822,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -2040,10 +2846,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2057,10 +2870,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -2074,10 +2894,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -2091,10 +2918,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -2108,10 +2942,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -2125,10 +2966,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -2142,10 +2990,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -2159,10 +3014,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -2176,10 +3038,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -2193,10 +3062,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -2210,10 +3086,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -2227,10 +3110,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -2244,10 +3134,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2261,10 +3158,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -2278,10 +3182,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -2295,10 +3206,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -2312,10 +3230,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -2329,10 +3254,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -2346,10 +3278,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -2363,10 +3302,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2380,10 +3326,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -2397,10 +3350,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -2414,10 +3374,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/jquery/jquery.js",
       "AssetKind": "All",
@@ -2431,10 +3398,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -2448,10 +3422,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -2465,10 +3446,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -2482,10 +3470,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -2499,10 +3494,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "CabManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "SourceId": "CabManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vivek\\Desktop\\New folder (2)\\CabManagementSystem\\CabManagementSystem\\CabManagementSystem\\wwwroot\\",
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
       "BasePath": "_content/CabManagementSystem",
       "RelativePath": "lib/jquery/jquery.slim.min.map",
       "AssetKind": "All",

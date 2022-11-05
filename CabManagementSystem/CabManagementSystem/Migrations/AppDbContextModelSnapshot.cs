@@ -64,6 +64,10 @@ namespace CabManagementSystem.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<string>("NumberPlate")
+<<<<<<< HEAD
+=======
+                        .IsRequired()
+>>>>>>> a442d54260d84ac05c5374ed36d3c42bf507f58e
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PasswordHash")
